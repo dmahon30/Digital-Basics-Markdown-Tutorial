@@ -26,7 +26,8 @@ _drop images, screenshots as relevant into the vault, link to them here. Use bac
 
 Screenshot of issues: #Markdownscreenshot
 
-![[Screen Shot 2021-09-30 at 9.05.32 AM.png]]
+![Markdown](Markdownimagefail.png)
+
 ## challenges 
 
 + I dislike that Sublime doesn't have a "preview" option for viewing the Markdown changes (although I think this can be fixed with a plugin?) 
