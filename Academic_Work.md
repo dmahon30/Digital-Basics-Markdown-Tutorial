@@ -22,7 +22,7 @@ My learning process can be briefly described using images of cats.
 
 + Here I am, stretching to investigate a new field. I'm intrigued but also terrified.
 
-![Cat2](catinabox.jpg)
+![Cat2](catinbox.jpg)
 
 + Ah, I've hit another snag in the design! Maybe if I go down the Google rabbit hole, I'll find the answer and get out of this box (until I inevitably get stuck again).
 
