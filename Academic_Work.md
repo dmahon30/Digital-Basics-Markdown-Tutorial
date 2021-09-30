@@ -1,4 +1,4 @@
-# My Favorite piece of Academic Work: *Does an internship count?*
+# My Favorite Piece of Academic Work: *Does an internship count?*
 
 
 The work I did during my summer 2021 internship was an amazing and eye-opening academic experience. It was almost entirely self-directed learning, and it was web-based design. I had no idea that I enjoyed this type of work, but it really merged my love of design with my love of history and storytelling. I was tasked with re-designing a website for a heritage project that connected historic sites with an online database of stories about that site's history via a QR code on nearby traffic boxes. I had no web design or user experience design background before tackling this project.
